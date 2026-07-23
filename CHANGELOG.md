@@ -7,6 +7,8 @@ actually cutting it, and this file starts there.
 
 ## Unreleased
 
+## 0.2.1 — 2026-07-23
+
 ### Changed
 
 - The release flow and labels automation now run heavy-duty/ceremony's shared
