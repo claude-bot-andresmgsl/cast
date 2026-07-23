@@ -5,7 +5,7 @@ since its first commit, but grew its release surface (this file,
 `cast --version`, tagged releases with a prebuilt asset) on the way to
 actually cutting it, and this file starts there.
 
-## Unreleased
+## 0.2.1 — 2026-07-23
 
 ### Changed
 
