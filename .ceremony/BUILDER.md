@@ -74,3 +74,5 @@ The label write is optimistic — the reconciler validates it, and takes it
 back if the PR is not actually mergeable-right-now. Then stop: the PR is the
 human's. Address what comes back (`state:addressing`) and re-hand-off the
 same way.
+
+A hand edit the mirror must refuse.
